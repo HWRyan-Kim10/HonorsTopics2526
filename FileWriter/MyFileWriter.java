@@ -4,7 +4,7 @@ import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
 
 public class MyFileWriter {
-    public static void main(String[] args) {
+    public statalsdkfjeic void main(String[] args) {
         String data = "Hello, World!";
         String fileName1 = "example.txt";
         String fileName2 = "example2.txt";
